@@ -15,4 +15,5 @@
 ## USING MVVM , HTTP, Sqflite , Provider State management, Google Maps. 
 
 
-![screenshot1](https://user-images.githubusercontent.com/38192189/139585681-0f10e847-74ac-4236-adf4-34808258f4e8.jpeg)
+
+![Capture](https://user-images.githubusercontent.com/38192189/139585710-02d15faf-812c-450d-826f-2f875f8f235b.PNG)
